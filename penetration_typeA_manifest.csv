@@ -1,0 +1,14 @@
+case_id,label,video,task,mechanism
+COSMOS25_0003,1,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0003.mp4,,A_container_side
+COSMOS25_0006,1,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0006.mp4,,A_container_side
+COSMOS25_0013,1,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0013.mp4,,A_gripper_cup_wall
+COSMOS25_0004,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0004.mp4,,negative_assorted
+COSMOS25_0005,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0005.mp4,,negative_assorted
+COSMOS25_0011,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0011.mp4,,negative_assorted
+COSMOS25_0018,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0018.mp4,,negative_assorted
+COSMOS25_0024,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0024.mp4,,negative_assorted
+COSMOS25_0025,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0025.mp4,,negative_assorted
+COSMOS25_0041,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0041.mp4,,negative_assorted
+COSMOS25_0045,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0045.mp4,,negative_assorted
+COSMOS25_0054,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0054.mp4,,negative_assorted
+COSMOS25_0056,0,/scratch/z/zy992/zhuoying/physact/cosmos_predict25/native_outputs/robowm_68_full/0056.mp4,,negative_assorted
